@@ -4,3 +4,4 @@
 # /* This is a
 #  * Multiline comment
 #  */
+# variables -> bit, byte, short, char, int, long, float, double, boolean
