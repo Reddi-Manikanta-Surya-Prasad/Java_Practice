@@ -4,4 +4,13 @@
 # /* This is a
 #  * Multiline comment
 #  */
-# variables -> bit, byte, short, char, int, long, float, double, boolean
+# variables -> 
+# Primitive Data types: 
+# Integers: 
+# byte --> -128 to 127(1byte), short --> -32,768 to 32,767(2 bytes), int --> -2,147,483,648 to 2,147,483,647(4 bytes), long --> -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807(8 bytes), 
+# Decimals data types:
+# float, double, 
+# character data type:
+# char
+# boolean data types:
+# boolean
