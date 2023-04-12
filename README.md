@@ -14,5 +14,6 @@
 # char
 # boolean data types:
 # boolean
+# Type Casting
 # Conditions --> if, if-else, Nested-If
 
