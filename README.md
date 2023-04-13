@@ -14,7 +14,10 @@
 # char
 # boolean data types:
 # boolean
-# Type Casting
+# Type Casting 
+# --> Implicit Type casting
+# --> 
+# --> Explicit Type casting
 # Conditions --> if, if-else, Nested-If
 # LCM & HCF and Ratio and Proportion
 
