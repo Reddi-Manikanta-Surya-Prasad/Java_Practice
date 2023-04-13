@@ -16,4 +16,5 @@
 # boolean
 # Type Casting
 # Conditions --> if, if-else, Nested-If
+# LCM & HCF and Ratio and Proportion
 
