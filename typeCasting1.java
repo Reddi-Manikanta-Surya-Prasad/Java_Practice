@@ -3,8 +3,7 @@ public class typeCasting1 {
         float f = 12.54f;
         double d = f;
         System.out.println(d);
-        System.out.println(type(f));
-        System.out.println(type(d));
+        
 
     }
 }
