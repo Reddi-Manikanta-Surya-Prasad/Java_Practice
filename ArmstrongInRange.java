@@ -9,6 +9,7 @@ public class ArmstrongInRange {
         for(int i=m;i<=n;i++){
             // need to check whether the number is armstrong number or not
             int count = 0, temp = i; 
+            
             while(temp>0){
                 count++;
                 temp = temp/10;
