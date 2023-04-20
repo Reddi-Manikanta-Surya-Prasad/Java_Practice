@@ -53,7 +53,9 @@
   * Unary Operaotors:
     * Postfix: epression++, expression--
     * Prefix:  ++expression, --expression
-  * Arithmatic Operator
+    * ~, !, -
+  * Arithmatic Operators:
+    * +, -, *, /, %
   * Shift Operaotor
   * Relational Operator
   * Bitwise Operator
