@@ -36,12 +36,30 @@
        * Both data types must be compitable with each other.
        * The target type must be larger than the source type.
        BYTE --> SHORT --> CHAR --> INT --> LONG --> FLOAT --> DOUBLE
-       
+       * Example: 
+        float f = 12.54f;
+        double d = f;
+        System.out.println(d);
 
 # --> Explicit Type casting
 # --> Converting higher data type into a lower data type is called Narrowing type casting or Explicit type casting.
 #       DOUBLE -->FLOAT --> LONG --> INT --> CHAR --> SHORT --> BYTE
-
+          *Example:
+        double d2 = 166.66;
+        long l = (long)d2;
+        System.out.println(d2);
+        System.out.println(l);
+# OPERATORS:
+  * Unary Operaotors:
+    * Postfix: 
+    * Prefix:
+  * Arithmatic Operator
+  * Shift Operaotor
+  * Relational Operator
+  * Bitwise Operator
+  * Logical Operaotor
+  * Ternary Operator
+  * Assignment Operator
 # Conditions --> if, if-else, Nested-If
 # LCM & HCF and Ratio and Proportion
 
