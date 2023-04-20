@@ -56,7 +56,9 @@
     * ~, !, -
   * Arithmatic Operators:
     * +, -, *, /, %
-  * Shift Operaotor
+  * Shift Operaotors:
+    * Left Shift --> <<
+    * Right Shift --> >>
   * Relational Operator
   * Bitwise Operator
   * Logical Operaotor
