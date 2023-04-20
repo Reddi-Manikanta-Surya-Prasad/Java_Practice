@@ -51,8 +51,8 @@
         System.out.println(l);
 # OPERATORS:
   * Unary Operaotors:
-    * Postfix: 
-    * Prefix:
+    * Postfix: epression++, expression--
+    * Prefix:  ++expression, --expression
   * Arithmatic Operator
   * Shift Operaotor
   * Relational Operator
