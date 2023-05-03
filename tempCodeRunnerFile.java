@@ -1,5 +1,3 @@
-public class variable {
-    public static void main(String[] args) {
-        // Declaring and initializing variables
-        /*
-         * This is a 
+for (int i = 0; i < n; i++) {
+      //    System.out.print(a[i] + " ");
+      // }
